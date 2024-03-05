@@ -1,0 +1,168 @@
+{
+  "categories": [
+    {
+      "category": "Clothes",
+      "items": [
+        {
+          "itemSKU": "CLTH001",
+          "itemName": "Men's T-Shirt",
+          "brand": "Nike",
+          "itemSeller": "FashionHub",
+          "stock": 100,
+          "images": [
+            "https://i5.walmartimages.com/asr/38ea6606-e5a2-4d29-9ae5-2952d7173b8b_1.44e5c3267324f91822dda55e193abed7.jpeg"
+          ],
+          "price": 19.99
+        },
+        {
+          "itemSKU": "CLTH002",
+          "itemName": "Women's Jeans",
+          "brand": "Levi's",
+          "itemSeller": "DenimWorld",
+          "stock": 75,
+          "images": [
+            "https://i5.walmartimages.com/asr/be0d3ddc-61fe-4335-9a39-84e6b5dde1e5.6b7ff336aa45c691fe8aa71dcc0ea97c.jpeg"
+          ],
+          "price": 39.99
+        },
+        {
+          "itemSKU": "CLTH003",
+          "itemName": "Ladies -White Long sleeves",
+          "brand": "Nike",
+          "itemSeller": "FashionHub",
+          "stock": 100,
+          "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/71yBwE%2BQUtL.jpg"
+          ],
+          "price": 19.99
+        },
+        {
+          "itemSKU": "CLTH004",
+          "itemName": "Men's Black pattern",
+          "brand": "Nike",
+          "itemSeller": "FashionHub",
+          "stock": 100,
+          "images": [
+            "https://th.bing.com/th/id/OIP.pIA1uTXDXV1OyQjHuk7YhgHaJ4?rs=1&pid=ImgDetMain"
+          ],
+          "price": 19.99
+        },
+        {
+          "itemSKU": "CLTH005",
+          "itemName": "Men's Black suit",
+          "brand": "Nike",
+          "itemSeller": "FashionHub",
+          "stock": 100,
+          "images": [
+            "https://www.instaloverz.com/wp-content/uploads/2016/08/9-black-suit-fashion-ideas-for-men-1.jpg"
+          ],
+          "price": 19.99
+        },
+        {
+          "itemSKU": "CLTH006",
+          "itemName": "Ladies puff sleeved",
+          "brand": "Nike",
+          "itemSeller": "FashionHub",
+          "stock": 100,
+          "images": [
+            "https://www.na-kd.com/globalassets/nakd_fitted_puff_sleeve_top_brown_1018-001861-0017_01a_r.jpg?ref=FBF3CBE654"
+          ],
+          "price": 19.99
+        },
+        {
+          "itemSKU": "CLTH007",
+          "itemName": "Men's Casual Shirt",
+          "brand": "Tommy Hilfiger",
+          "itemSeller": "FashionHub",
+          "stock": 50,
+          "images": [
+            "https://th.bing.com/th/id/OIP.AA27ObPQudnzr-ew8CMUgAHaLH?rs=1&pid=ImgDetMain"
+          ],
+          "price": 29.99
+        },
+        {
+          "itemSKU": "CLTH008",
+          "itemName": "Ladies white Wool Blend",
+          "brand": "Nike",
+          "itemSeller": "FashionHub",
+          "stock": 100,
+          "images": [
+            "https://th.bing.com/th/id/OIP.e61OWSp97yQg4gJl1TkmlgHaLG?rs=1&pid=ImgDetMain"
+          ],
+          "price": 19.99
+        },
+        {
+          "itemSKU": "CLTH009",
+          "itemName": "Men's grey Baggy Jeans",
+          "brand": "Nike",
+          "itemSeller": "FashionHub",
+          "stock": 100,
+          "images": [
+            "https://th.bing.com/th/id/OIP.68g0bsyy9WUIutyrWj7uHwHaJk?rs=1&pid=ImgDetMain"
+          ],
+          "price": 19.99
+        },
+        {
+          "itemSKU": "CLTH010",
+          "itemName": "Men's Trouser",
+          "brand": "Nike",
+          "itemSeller": "FashionHub",
+          "stock": 100,
+          "images": [
+            "https://i5.walmartimages.com/asr/0d9a6fdb-9ead-4a7b-87ca-b0abf122d857_1.f1865b4370541eb1e20718150f546f44.jpeg"
+          ],
+          "price": 29.99
+        }
+      ]
+    },
+    {
+      "category": "Electronics",
+      "items": [
+        {
+          "itemSKU": "ELEC001",
+          "itemName": "Smartphone",
+          "brand": "Samsung",
+          "itemSeller": "TechEmporium",
+          "stock": 50,
+          "images": [
+            "https://th.bing.com/th/id/OIP._chfEdvhVw8hg6tIVj8JvgHaHC?rs=1&pid=ImgDetMain"
+          ],
+          "price": 499.99
+        },
+        {
+          "itemSKU": "ELEC002",
+          "itemName": "Laptop",
+          "brand": "Apple",
+          "itemSeller": "TechEmporium",
+          "stock": 30,
+          "images": [
+            "https://i5.walmartimages.com/asr/e3ced41b-70f0-4afa-813a-6aa923980501_2.0388a3cf5a00012a75f3d3898a4d1062.jpeg"
+          ],
+          "price": 1299.99
+        },
+        {
+          "itemSKU": "ELEC003",
+          "itemName": "Bluetooth Earbuds",
+          "brand": "Sony",
+          "itemSeller": "TechEmporium",
+          "stock": 100,
+          "images": [
+            "https://th.bing.com/th/id/OIP.x6Swnm7A8Z9Hz3MDSFIlXAHaHa?pid=ImgDet&rs=1"
+          ],
+          "price": 99.99
+        },
+        {
+          "itemSKU": "ELEC004",
+          "itemName": "Smartwatch",
+          "brand": "Apple",
+          "itemSeller": "TechEmporium",
+          "stock": 20,
+          "images": [
+            "https://th.bing.com/th/id/OIP.DLqRzPk5bBKlPWTdZFcB4AHaFj?pid=ImgDet&rs=1"
+          ],
+          "price": 399.99
+        }
+      ]
+    }
+  ]
+}
