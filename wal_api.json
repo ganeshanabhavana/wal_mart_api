@@ -1,6 +1,4 @@
-walmart_api
-A simple API endpoint that shows different categories of items and differnt products available in each category. 
-walmart_items.json
+
 {
   "categories": [
     {
@@ -374,7 +372,7 @@ walmart_items.json
           "price": 2.49
         }
 	
-        // Add 48 more unique items
+        
       ]
     },
       ]
