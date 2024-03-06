@@ -1,4 +1,3 @@
-
 {
   "categories": [
     {
@@ -22,13 +21,11 @@
           "itemSeller": "DenimWorld",
           "stock": 75,
           "images": [
-            "https://i5.walmartimages.com/asr/be0d3ddc-61fe-4335-9a39-84e6b5dde1e5.6b7ff336aa45c691fe8aa71dcc0ea97c.jpeg",
-            
+            "https://i5.walmartimages.com/asr/be0d3ddc-61fe-4335-9a39-84e6b5dde1e5.6b7ff336aa45c691fe8aa71dcc0ea97c.jpeg"
           ],
           "price": 39.99
         },
-        // Add 48 more unique items
-	{
+        {
           "itemSKU": "CLTH003",
           "itemName": "Ladies -White Long sleeves",
           "brand": "Nike",
@@ -39,7 +36,7 @@
           ],
           "price": 19.99
         },
-	{
+        {
           "itemSKU": "CLTH004",
           "itemName": "Men's Black pattern",
           "brand": "Nike",
@@ -50,7 +47,7 @@
           ],
           "price": 19.99
         },
-	{
+        {
           "itemSKU": "CLTH005",
           "itemName": "Men's Black suit",
           "brand": "Nike",
@@ -61,7 +58,7 @@
           ],
           "price": 19.99
         },
-	{
+        {
           "itemSKU": "CLTH006",
           "itemName": "Ladies puff sleeved",
           "brand": "Nike",
@@ -72,7 +69,7 @@
           ],
           "price": 19.99
         },
-	{
+        {
           "itemSKU": "CLTH008",
           "itemName": "Ladies white Wool Blend",
           "brand": "Nike",
@@ -83,7 +80,7 @@
           ],
           "price": 19.99
         },
-	{
+        {
           "itemSKU": "CLTH009",
           "itemName": "Men's grey Baggy Jeans",
           "brand": "Nike",
@@ -94,7 +91,7 @@
           ],
           "price": 19.99
         },
-	{
+        {
           "itemSKU": "CLTH010",
           "itemName": "Men's Trouser",
           "brand": "Nike",
@@ -104,8 +101,7 @@
             "https://i5.walmartimages.com/asr/0d9a6fdb-9ead-4a7b-87ca-b0ab305af0c9.5ae54bba7efb7b06cdd79cdfa86859df.jpeg"
           ],
           "price": 19.99
-        },
-	
+        }
       ]
     },
     {
@@ -133,7 +129,7 @@
           ],
           "price": 1299.99
         },
-	{
+        {
           "itemSKU": "ELEC003",
           "itemName": "Laptop",
           "brand": "Lenovo",
@@ -144,7 +140,7 @@
           ],
           "price": 1299.99
         },
-	{
+        {
           "itemSKU": "ELEC004",
           "itemName": "Laptop",
           "brand": "hp pavilion",
@@ -155,7 +151,7 @@
           ],
           "price": 1299.99
         },
-	{
+        {
           "itemSKU": "ELEC005",
           "itemName": "Laptop",
           "brand": "dell",
@@ -166,7 +162,7 @@
           ],
           "price": 1299.99
         },
-	{
+        {
           "itemSKU": "ELEC006",
           "itemName": "Mobile",
           "brand": "Xiaomi Redmi Note 10",
@@ -177,7 +173,7 @@
           ],
           "price": 1299.99
         },
-	{
+        {
           "itemSKU": "ELEC007",
           "itemName": "Mobile",
           "brand": "Oppo 9AX",
@@ -188,7 +184,7 @@
           ],
           "price": 1299.99
         },
-	{
+        {
           "itemSKU": "ELEC009",
           "itemName": "Mobile",
           "brand": "Nokia Flip Cell Phones",
@@ -199,7 +195,7 @@
           ],
           "price": 1299.99
         },
-	{
+        {
           "itemSKU": "ELEC010",
           "itemName": "iPad",
           "brand": "Apple",
@@ -210,7 +206,7 @@
           ],
           "price": 1299.99
         },
-	{
+        {
           "itemSKU": "ELEC011",
           "itemName": "Redmi 8",
           "brand": "Apple",
@@ -221,7 +217,7 @@
           ],
           "price": 1299.99
         },
-	{
+        {
           "itemSKU": "ELEC012",
           "itemName": "Mobile",
           "brand": "LG G4",
@@ -232,7 +228,7 @@
           ],
           "price": 1299.99
         },
-	{
+        {
           "itemSKU": "ELEC013",
           "itemName": "Mobile",
           "brand": "Motorola One Fusion Plus",
@@ -243,7 +239,7 @@
           ],
           "price": 1299.99
         },
-	{
+        {
           "itemSKU": "ELEC014",
           "itemName": "Laptop",
           "brand": "Motorola One Fusión",
@@ -253,8 +249,7 @@
             "https://th.bing.com/th/id/OIP.M7BGwoORqeRT4jfS14HgEgHaDt?rs=1&pid=ImgDetMain"
           ],
           "price": 1299.99
-        },
-        // Add 48 more unique items
+        }
       ]
     },
     {
@@ -282,8 +277,7 @@
           ],
           "price": 5.99
         },
-
-	{
+        {
           "itemSKU": "CHOC003",
           "itemName": "Milk Chocolate Bar",
           "brand": "Hershey's",
@@ -294,7 +288,7 @@
           ],
           "price": 2.49
         },
-	{
+        {
           "itemSKU": "CHOC004",
           "itemName": "Cadbury Roundie milk chocolate",
           "brand": "Cadbury",
@@ -305,7 +299,7 @@
           ],
           "price": 2.49
         },
-	{
+        {
           "itemSKU": "CHOC005",
           "itemName": "Cadbury",
           "brand": "Cadbury",
@@ -316,7 +310,7 @@
           ],
           "price": 2.49
         },
-	{
+        {
           "itemSKU": "CHOC006",
           "itemName": "5-Star",
           "brand": "Cadbury",
@@ -327,7 +321,7 @@
           ],
           "price": 2.49
         },
-	{
+        {
           "itemSKU": "CHOC007",
           "itemName": "5-Star Oreo",
           "brand": "Cadbury",
@@ -338,7 +332,7 @@
           ],
           "price": 2.49
         },
-	{
+        {
           "itemSKU": "CHOC008",
           "itemName": "kitkat",
           "brand": "Nestle",
@@ -349,7 +343,7 @@
           ],
           "price": 2.49
         },
-	{
+        {
           "itemSKU": "CHOC009",
           "itemName": "Nestle",
           "brand": "Nestle",
@@ -360,7 +354,7 @@
           ],
           "price": 2.49
         },
-	{
+        {
           "itemSKU": "CHOC010",
           "itemName": "choci choci",
           "brand": "choci choci",
@@ -371,9 +365,7 @@
           ],
           "price": 2.49
         }
-	
-        
       ]
-    },
-      ]
+    }
+  ]
 }
